@@ -1,6 +1,8 @@
 # Movie-Recommendation-TMDB
 A Content based Movie Recommendation Model using Cosine Similarity with TMDB dataset
 
+Kaggle Dataset - https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+
 Steps to run the Project:
 1. Open "Command Prompt", type "pip install streamlit" and hit Enter.
 2. After installation, go to the directory where you have extracter the project and open its Path in Command Prompt.
